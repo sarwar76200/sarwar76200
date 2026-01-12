@@ -43,6 +43,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-grey.svg?style=flat-square&logo=tailwindcss)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=flat-square)
 ![MondoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=flat-square&logo=express&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=flat-square&logo=redux&logoColor=white)
@@ -61,13 +62,15 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=flat-square&logo=Jest&logoColor=white)
 ![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=fff)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 
 ---
@@ -78,8 +81,9 @@
 | ----------- | ----------- | ----------- |
 | ![Codeforces](https://img.shields.io/badge/CodeForces-BC1C25.svg?style=flat-square&logo=codeforces&logoColor=white) | [`sarwar__`](https://codeforces.com/profile/sarwar__)       | ![Specialist](https://img.shields.io/badge/Specialist-1527-cyan?style=flat-square) |
 | ![AtCoder](https://badge-generator-mu.vercel.app/badge?text=AtCoder&logo=atcoder) | [`sarwar_`](https://atcoder.jp/users/sarwar_)       | ![Green](https://img.shields.io/badge/5_Kyu-1043-008000?style=flat-square) |
-| ![CodeChef](https://img.shields.io/badge/Codechef-583621.svg?style=flat-square&logo=codechef&logoColor=white) |  [`sarwar_7`](https://www.codechef.com/users/sarwar_7)      | ![4 Star](https://img.shields.io/badge/4_Star-★★★★-684273?style=flat-square) |
-
+| ![CodeChef](https://img.shields.io/badge/Codechef-583621.svg?style=flat-square&logo=codechef&logoColor=white) |  [`sarwar_7`](https://www.codechef.com/users/sarwar_7)      | ![4 Star](https://img.shields.io/badge/★★★★-1852-684273?style=flat-square) |
+<!-- | ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=) |  [`sarwar__`](https://leetcode.com/u/sarwar__)      | ![4 Star](https://img.shields.io/badge/4★-1852-684273?style=flat-square) |
+ -->
 
 ---
  
