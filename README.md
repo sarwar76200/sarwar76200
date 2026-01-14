@@ -79,7 +79,7 @@
 
 | Platform      | Handle | Rating
 | ----------- | ----------- | ----------- |
-| ![Codeforces](https://img.shields.io/badge/CodeForces-BC1C25.svg?style=flat-square&logo=codeforces&logoColor=white) | [`sarwar__`](https://codeforces.com/profile/sarwar__)       | ![Specialist](https://img.shields.io/badge/Specialist-1527-cyan?style=flat-square) |
+| ![Codeforces](https://img.shields.io/badge/CodeForces-BC1C25.svg?style=flat-square&logo=codeforces&logoColor=white) | [`sarwar__`](https://codeforces.com/profile/sarwar__)       | ![Specialist](https://img.shields.io/badge/Specialist-1562-cyan?style=flat-square) |
 | ![AtCoder](https://badge-generator-mu.vercel.app/badge?text=AtCoder&logo=atcoder) | [`sarwar_`](https://atcoder.jp/users/sarwar_)       | ![Green](https://img.shields.io/badge/5_Kyu-1043-008000?style=flat-square) |
 | ![CodeChef](https://img.shields.io/badge/Codechef-583621.svg?style=flat-square&logo=codechef&logoColor=white) |  [`sarwar_7`](https://www.codechef.com/users/sarwar_7)      | ![4 Star](https://img.shields.io/badge/★★★★-1852-684273?style=flat-square) |
 <!-- | ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=) |  [`sarwar__`](https://leetcode.com/u/sarwar__)      | ![4 Star](https://img.shields.io/badge/4★-1852-684273?style=flat-square) |
