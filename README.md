@@ -13,7 +13,7 @@
 <!-- - 🏡 Based in Dhaka, Bangladesh -->
 - 👨‍💻 Competitive Programmer
 - 🏆 Finalist at ICPC Asia West Continent Finals 2023
-- 🎓 North South University graduate
+- 🎓 North South University Graduate
 - 💻 Specialization in **React**, **TypeScript**, **Express**, **FastAPI**
 <!-- - 📌 Currently learning Jest, Playwright -->
 
